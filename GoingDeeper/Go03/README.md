@@ -7,6 +7,10 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+        - ![image](https://github.com/user-attachments/assets/0f83438b-66f6-458c-9109-bd9ebd6a9ad9)
+        - - ![image](https://github.com/user-attachments/assets/2fc370a9-b1fe-4f51-8949-3856122aa744)
+
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -24,6 +28,9 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - ![image](https://github.com/user-attachments/assets/b08cfdb8-efea-4c70-ad2a-b636e6657c2a)
+        - ![image](https://github.com/user-attachments/assets/05905ba4-d34f-4709-92b4-427ce176c4b4)
+
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -36,7 +43,7 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-
+        - ![image](https://github.com/user-attachments/assets/141f53c6-a1a3-40f0-90ba-e668bbcba344)
 
 # 회고(참고 링크 및 코드 개선)
 ```
